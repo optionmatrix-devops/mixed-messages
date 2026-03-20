@@ -1,3 +1,3 @@
 console.log("Thank you");
-const name = "sai Shwejan";
+const name = "Sai Shwejan";
 console.log(name);
